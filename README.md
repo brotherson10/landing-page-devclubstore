@@ -12,7 +12,7 @@ This project is a Landing Page developed as a front-end practice using Semantic 
 
 🔗 Acesse o projeto | Access the project
 
-👉 https://brotherson10.github.io/landing-page-devclubstore/
+👉 https://store-devclub.netlify.app/
 
 --
 
